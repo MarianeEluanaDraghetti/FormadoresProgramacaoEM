@@ -1,5 +1,6 @@
-body{
-    background-color: lightcoral;
-}
-h1{text-align: center; font-size: 50px; }
-p{font-size: 20px; color: green;}
+h1, h3{text-align: center;}
+body{background-color: #4566BA;}
+h1{font-size: 50px; color: #9E4544; font-family: sans-serif;}
+h3{font-size: 35px;  font-family: Verdana, Geneva, Tahoma, sans-serif; color: #2D437A);}
+p{font-size: 25px; color: #7F649E; font-family: cursive;}
+span {color: ##5C89BD}
