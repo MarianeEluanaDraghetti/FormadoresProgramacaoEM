@@ -1,8 +1,50 @@
-h1, h3{text-align: center;}
-body{background-color: #4566BA;}
-h1{font-size: 50px; color: #0B0B61; font-family: sans-serif;}
-h3{font-size: 35px;  font-family: Verdana, Geneva, Tahoma, sans-serif; color: #045FB4;}
-p{font-size: 25px; color: #1C1C1C; font-family: cursive;}
-span {color: ##5C89BD; border: 5px solid grey; padding: 50px;}
+h1,
+h3 {
+    text-align: center;
+}
 
-#capa{width: 25%; margin-left: 450px; }
+body {
+    background-color: #4566BA;
+}
+
+h1 {
+    font-size: 50px;
+    color: #0B0B61;
+    font-family: sans-serif;
+}
+
+h3 {
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #045FB4;
+}
+
+p {
+    font-size: 25px;
+    color: #1C1C1C;
+    font-family: sans-serif;
+}
+
+span {
+    color: ##5C89BD;
+    border: 5px solid grey;
+    padding: 50px;
+}
+
+li {
+    color: ##5C89BD;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+li::marker{
+    font-size: 30PX;
+    content: "\221A";
+
+
+}
+
+#capa {
+    width: 25%;
+    margin-left: 450px;
+}
