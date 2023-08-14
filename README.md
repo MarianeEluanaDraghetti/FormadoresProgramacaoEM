@@ -1,2 +1,2 @@
-# FormadoresProgramacaoEM
+# Pensamento Computacional
 
